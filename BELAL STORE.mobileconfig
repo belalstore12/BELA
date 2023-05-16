@@ -22,7 +22,7 @@
      <key>PayloadDescription</key>
      <string>Adds a Web Clip.</string>
      <key>PayloadDisplayName</key>
-     <string>Web Clip (https://belal-store.netlify.app)</string>
+     <string>Web Clip (BELAL STORE)</string>
      <key>PayloadIdentifier</key>
      <string>BELAL STORE</string>
      <key>PayloadOrganization</key>
@@ -41,7 +41,7 @@
  </array>
  <key>PayloadDescription</key>
  <string>سلاو هاورێیان لە ئیستادا کۆگایەک مان داناوە بۆ هەردووک سیستەمی ئایفۆن و ئەندرۆید کە ئەتوانن یاری و بەرنامەکان بە هاکراو و خۆرای دایبەزینن ئەگەر کیشەیەکتان هەبوو سەردانی  تیلیگرام بکەن
-تیلیگرام/belal_oubg</string>
+تیلیگرام/belal_storee</string>
  <key>PayloadDisplayName</key>
  <string>BELAL STORE</string>
  <key>PayloadIdentifier</key>

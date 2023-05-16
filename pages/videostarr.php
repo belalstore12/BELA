@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>video starpri</title>
+  <title>videostarpro</title>
 </head>
 <body>
   <div class="page">
@@ -26,13 +26,13 @@
           <li class="media-item">
             <div class="item-content">
               <div class="item-media"><img src=
-              "./img/videostar.png"
+              "./img/videostarpro.png"
               class="appicon elevation-5 animated zoomIn"></div>
               <div class="item-inner">
                 <div class="item-title-row">
                   <div class="item-title">
                     VideoStarPro
-             </div> <a href="itms-services://?action=download-manifest&url= https://hamastore.netlify.app./install/videostar.plist"
+             </div> <a href="itms-services://?action=download-manifest&url=https://archive.org/download/Belalvideostarpro/Belalvideostarpro.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=

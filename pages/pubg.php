@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>pubg</title>
+  <title>PUBG V1</title>
 </head>
 <body>
   <div class="page">
@@ -12,7 +12,7 @@
           "ios-only">Back</span></a>
         </div>
         <div class="title">
-          PubgHack
+          PUBG V1
         </div>
         <div class="right">
           <a href="javascript:window.location.reload(true)" class=
@@ -31,9 +31,9 @@
               <div class="item-inner">
                 <div class="item-title-row">
                   <div class="item-title">
-                    PubgHack
+                    PUBG V1
                   </div><a href=
-                  "itms-services://?action=download-manifest&url=https://rebostore.cf/install/pubg.plist"
+                  "itms-services://?action=download-manifest&url=https://archive.org/download/belalpubgv1/belalpubgv1.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=

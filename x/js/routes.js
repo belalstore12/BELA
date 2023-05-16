@@ -12,12 +12,24 @@ routes = [
     url: './pages/new.php',
   },
   {
+    path: '/carparking',
+    url: './pages/carparking.php',
+  },
+  {
+    path: '/videostarpro',
+    url: './pages/videostarr.php',
+  },
+  {
     path: '/appleid',
     url: './pages/appleid.php',
   },
   {
     path: '/odyssey',
     url: './pages/odyssey.php',
+  },
+  {
+    path: '/server',
+    url: './pages/server.php',
   },
   {
     path: '/esign',

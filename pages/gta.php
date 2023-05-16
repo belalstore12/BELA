@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Gta-San</title>
+  <title>Gta-Kurdish</title>
 </head>
 <body>
   <div class="page">
@@ -12,7 +12,7 @@
           "ios-only">Back</span></a>
         </div>
         <div class="title">
-          Gta-San
+          Gta-Kurdish
         </div>
         <div class="right">
           <a href="javascript:window.location.reload(true)" class=
@@ -31,8 +31,8 @@
               <div class="item-inner">
                 <div class="item-title-row">
                   <div class="item-title">
-                    Gta-San
-                  </div><a href="itms-services://?action=download-manifest&url=https://www.rebostore.cf/install/gtasan.plist"
+                    Gta-Kurdish
+                  </div><a href="itms-services://?action=download-manifest&url=https://archive.org/download/belalgtakurdish/belalgtakurdish.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
